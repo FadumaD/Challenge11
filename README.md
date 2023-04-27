@@ -29,7 +29,7 @@ This project uses nodejs and express.js to allow a local brower to host a note t
 Deployed in heroku https://notetakingapplication.herokuapp.com/
 
 
-Deployed in Github  
+Deployed in Github  https://fadumad.github.io/Challenge11/
 
 
 ## Screenshots<img width="1096" alt="Screenshot 2023-04-27 at 00 44 55" src="https://user-images.githubusercontent.com/117111465/234736128-515b543a-a9c5-4ee3-b3c8-56291da2253c.png">
