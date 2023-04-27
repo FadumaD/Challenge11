@@ -1,4 +1,4 @@
-# Express.js Based Note Taker
+# Note Taker application using Express.j
 
 ## Description
 This project uses nodejs and express.js to allow a local brower to host a note taking application. It's intended to give some help to busy  small business owners in putting togther a todo list to keep track of tasks and thoughts that need to be organised. It is versatial and easy to use. It comes with you everywhere and you can not lose it as its an application on your phone or tablet. 
