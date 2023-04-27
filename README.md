@@ -29,4 +29,12 @@ This project uses nodejs and express.js to allow a local brower to host a note t
 Deployed in heroku https://notetakingapplication.herokuapp.com/
 
 
-Deployed in Github  # Challenge11
+Deployed in Github  
+
+
+## Screenshots<img width="1096" alt="Screenshot 2023-04-27 at 00 44 55" src="https://user-images.githubusercontent.com/117111465/234736128-515b543a-a9c5-4ee3-b3c8-56291da2253c.png">
+<img width="538" alt="Screenshot 2023-04-27 at 02 16 09" src="https://user-images.githubusercontent.com/117111465/234736197-9b9fdf3d-996e-47eb-91c7-4a2edc5be821.png">
+
+
+
+
